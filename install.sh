@@ -7,3 +7,5 @@ cd ..
 cd yaourt
 makepkg -si
 cd ..
+rm -rf package-query
+rm -rf yaourt
